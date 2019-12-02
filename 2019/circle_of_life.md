@@ -40,7 +40,7 @@ So put your thinking caps on and keep your cameras ready to tell us your story!
 
     All scores are normalized (see [scoring system](https://github.com/photography2018/competition/blob/master/scoring.md))
     
-## Top entries in Judges' Choice category [JCC]
+## Top entries in Judges' Choice Category [JCC]
 |Position	|Entry Name|	Judge 1	| Judge 2	| Judge 3	| Total Score |
 |--|--|--|--|--|--|
 |1.a	| "A flower cannot blossom without sunshine, and a man cannot live without love" ~ Max Muller|	4|	5	|	5|14|
@@ -55,7 +55,7 @@ So put your thinking caps on and keep your cameras ready to tell us your story!
     
 ‘—’ stands for not shortlisted by the respective judge
 
-## Top entries in People's Choice category [PCC]
+## Top entries in People's Choice Category [PCC]
 |Position	|Entry Name|	Average Vote|	Total Votes	|Total Score|
 |--|--|--|--|--|
 |1	|"A flower cannot blossom without sunshine, and a man cannot live without love" ~ Max Muller|4.4	|26|114.4|
