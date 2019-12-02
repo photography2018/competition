@@ -25,7 +25,7 @@ So put your thinking caps on and keep your cameras ready to tell us your story!
 
 *The circle of life"*
 
-*    — ‘Circle of life’ from the movie ‘The Lion King’*
+   — ‘Circle of life’ from the movie ‘The Lion King’
 
 ## The contest flow
 *You can upload during : 04 to 18 November*
