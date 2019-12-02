@@ -55,5 +55,14 @@ So put your thinking caps on and keep your cameras ready to tell us your story!
     
 ‘—’ stands for not shortlisted by the respective judge
 
+## Top entries in People's Choice category [PCC]
+|Position	|Entry Name|	Average Vote|	Total Votes	|Total Score|
+|--|--|--|--|--|
+|1	|"A flower cannot blossom without sunshine, and a man cannot live without love" ~ Max Muller|4.4	|26|114.4|
+|2|The origin of life|4.5|19|85.5|
+|3|Pool of life|4.2|17|71.4|
+|4	|"Where tree leaves dance... one shall find flames... the fire's shadow will illuminate the village... and once again tree leaves shall bud anew." - Masashi Kishimoto|4|	13	|52|
+|5|Today its Ur turn, Tomorrow its Mine|4.3|11|47.3|
+|6|The circle of life|4.1|8|32.8|
+|7	|An arachnid's circle of life|	3.9|	8|	31.2|
     
-(SCORE DETAILS ARE BEING UPLOADED. STAY RELOADED)
