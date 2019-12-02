@@ -27,7 +27,7 @@ So put your thinking caps on and keep your cameras ready to tell us your story!
 
 *    — ‘Circle of life’ from the movie ‘The Lion King’*
 
-## Submission phase
+## The contest flow
 *You can upload during : 04 to 18 November*
 
 *Cast your votes during : 19 to 23 November*
