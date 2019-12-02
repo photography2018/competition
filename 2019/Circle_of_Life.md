@@ -40,5 +40,19 @@ So put your thinking caps on and keep your cameras ready to tell us your story!
 
     All scores are normalized (see [scoring system](https://github.com/photography2018/competition/blob/master/scoring.md))
     
+## Top entries in Judges' Choice category [JCC]
+|Position	|Entry Name|	Judge 1	| Judge 2	| Judge 3	| Total Score |
+|--|--|--|--|--|--|
+|1.a	| "A flower cannot blossom without sunshine, and a man cannot live without love" ~ Max Muller|	4|	5	|	5|14|
+|1.b	|Pool of life|5|	4	|5	|14|
+|2	|The origin of life|4	|4	|5|13|
+|3.a	|The Last Flight|	3	|4	|-|7|
+|3.b	|Life in a circle.....|	3|	-|4|	7|
+|4. a|Queen Ant- Start of a large circle|3|3|-|6|
+|4.b|The circle of life|-|3|3|6|
+|5.a|Amante del cafe|3|-|1|4|
+|5.b|Emergence|1|-|3|4|    
     
-    (SCORE DETAILS ARE BEING UPDATED. STAY REFRESHED)
+    
+    
+(SCORE DETAILS ARE BEING UPLOADED. STAY RELOADED)
