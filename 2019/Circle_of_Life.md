@@ -9,16 +9,16 @@ It could mean the life cycle, or the shapes of organisms – the more creative, 
 
 So put your thinking caps on and keep your cameras ready to tell us your story!
 
-"It's the circle of life
-And it moves us all
-Through despair and hope
-Through faith and love
-'Til we find our place
-On the path unwinding
-In the circle
-The circle of life"
+*"It's the circle of life*
+*And it moves us all*
+*Through despair and hope*
+*Through faith and love*
+*'Til we find our place*
+*On the path unwinding*
+*In the circle*
+*The circle of life"*
 
-    — ‘Circle of life’ from the movie ‘The Lion King’
+*    — ‘Circle of life’ from the movie ‘The Lion King’*
 
 ## Submission phase
 *You can upload during : 04 to 18 November*
