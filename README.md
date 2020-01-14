@@ -2,7 +2,7 @@
 This public repository will serve as an ``open database`` for ‘**Photography Competition**’ details and statistics. Purpose of this repository to have little transparency about photography competition, it’s rules and statistics. This will also track evolution of this little activity on the campus. Currently this will hold following details about photography competition.
 
 * [Rules and Regulations ](Rules.md)
-* [Statistics about competitions](https://github.com/photography2018/competition/tree/master/2019) ( *Ongoing Competition* : [Faces of India/ To be Archived](https://github.com/photography2018/competition/blob/master/2020/faces_of_india.md) )
+* [Statistics about competitions](https://github.com/photography2018/competition/tree/master/2019) ( *Ongoing Competition* : [Faces of India](https://github.com/photography2018/competition/blob/master/2020/faces_of_india.md) [To be Archived](https://github.com/photography2018/competition/blob/master/2020/to_be_archived.md) )
 * [Process of entire competition](process.md)
 * [Scoring system](scoring.md)
 
