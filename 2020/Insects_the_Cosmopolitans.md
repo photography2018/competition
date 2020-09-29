@@ -28,7 +28,7 @@ A small insect sitting on a leaf:
 
 ----
 
-***********************
+***
 
 
 Dear all,
@@ -38,8 +38,8 @@ This time check out all the insects out there, observe them, admire them, and wi
 Theme: Insects the Cosmopolitans
 
 Deadlines.
-Entry submission phase : 3rd  March till 16th March.
-Voting phase                  : 17th March till 20th March
+Entry submission phase : March 3-16.
+Voting phase                  : March 17-20
 
 
 
