@@ -1,5 +1,7 @@
 ## THEME: Insects the Cosmopolitans
 
+---
+
 A human boy and girl:
 
 “Yo!
@@ -24,6 +26,7 @@ A small insect sitting on a leaf:
 
 “May be not.”
 
+----
 
 ***********************
 
