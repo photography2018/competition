@@ -19,8 +19,7 @@ Who can do anything on this planet
 We can live anywhere, eat anything and travel like a dashing light..”
 
 
-
-A small insect sitting on a leaf:
+*A small insect sitting on a leaf:*
 
 “May be not.”
 
@@ -58,7 +57,7 @@ Voting phase                  : 17th March till 20th March
 
 -- stands for entry not shortlisted by the respective judge
 
-** Photographer hasn't completed the protocol for finallizing the winning entry
+** Photographer hasn't completed the protocol for finalizing the winning entry
 
 
 *People's Choice Category stands Cancelled*
