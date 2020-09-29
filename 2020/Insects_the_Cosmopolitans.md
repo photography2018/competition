@@ -18,8 +18,9 @@ Who can do anything on this planet
 
 We can live anywhere, eat anything and travel like a dashing light..”
 
+---
 
-*A small insect sitting on a leaf:*
+A small insect sitting on a leaf:
 
 “May be not.”
 
@@ -33,8 +34,8 @@ This time check out all the insects out there, observe them, admire them, and wi
 
 Theme: Insects the Cosmopolitans
 
-Deadlines
-Entry submission phase : 3rd  March till 16th March
+Deadlines.
+Entry submission phase : 3rd  March till 16th March.
 Voting phase                  : 17th March till 20th March
 
 
