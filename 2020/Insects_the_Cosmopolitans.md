@@ -3,15 +3,24 @@
 A human boy and girl:
 
 “Yo!
+
 We are sapiens
+
 Who own this planet
+
 We own the seas and the lands and the skies and the trees..
+
 Yo!
+
 We are sapiens
+
 Who can do anything on this planet
+
 We can live anywhere, eat anything and travel like a dashing light..”
 
+
 A small insect sitting on a leaf:
+
 “May be not.”
 
 
@@ -46,9 +55,13 @@ So, go get some insect bite!
 |9|Stealth mode |2|4|--|6|
 |10|Too many shades around & that makes me pretty .......|3|3|--|6|
 
-‘--’ stands for not shortlisted by the respective judge
-'**' Photographer hasn't completed the protocol for finallizing the winning entry
-*People's choice category stands Cancelled*
+
+-- stands for entry not shortlisted by the respective judge
+
+** Photographer hasn't completed the protocol for finallizing the winning entry
+
+
+*People's Choice Category stands Cancelled*
 
 
 
