@@ -15,7 +15,7 @@
 |--|--|--|--|--|--|
 |1.	| Wear a maks (unless you are headless)|	4|	5	|	2|11|
 |2.	|Social distancing taken too seriously?|4|	1	|5	|10|
-|3.	|We are all migrants trough time|4	|-	|5|9|
+|3.	|We are all migrants through time|4	|-	|5|9|
 |4.a	|Essential|	5	|2	|1|8|
 |4.b	|No one to disturb, on an otherwise busiest street of Mumbai during pandemic.|	4|	1|	3|8|
 |5.a|Sky during pandemic|1|3|3|7|
