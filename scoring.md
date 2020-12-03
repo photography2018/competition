@@ -11,7 +11,7 @@ All judges will be asked to score entries on the scale of 1 to 5.
 Judges should submit score for at least 8 entries (*This number might change depending on number of entries for specific competition. 
 Judges will be informed accordingly*). 
 
-Score from each judge will be normalize according to following formula,
+Score from each judge will be normalized according to following formula,
 
     Normalized Score Percentage = (R – L)*100/ (H – L)
 
