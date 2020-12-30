@@ -1,8 +1,11 @@
 ## THEME: Food for the Soul
 
 *Submission phase: Dec 1 – Dec 18*
+
 *Number of judges contacted :3*
+
 *Number of judges submitted scores :3*
+
 * All scores are normalized (see [scoring system](https://github.com/photography2018/competition/blob/master/scoring.md))
 
 
