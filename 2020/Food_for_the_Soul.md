@@ -18,4 +18,7 @@
 |3|there is no sincerer love than love of food |5|5|3|13|
 |4|Now or Never |3|4|5|12|
 |5|Fill your plate with the colors of  the rainbow. What pleases the eye, pleases the body. |4|3|3|10|
-
+|6a|''Khandvi rolls " homemade Gujarati snack|5|3|1|9|
+|6b|Basic!|4|4|1|9|
+|6c|This was my first attempt to making Ratatouille, inspired by the movie Ratatouille. And trust me when I say this, it does take you back to your childhood, at least to when you first saw this movie.|3|5|1|9|
+|6d|Kadai special|2|4|3|9|
