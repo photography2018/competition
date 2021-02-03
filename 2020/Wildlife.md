@@ -16,9 +16,9 @@
 |4.	|live a colorful life |	2	|4	|3|9|
 |5.a	|A Bee's Life|	3|	2|	3|8|
 |5.b|Wave and Swim-by|2|1|5|8|
-|6.a|As gaudy as Butterfly|2|-|4|6|
-|6.b|You or me Emotions no difference|2|-|4|6|
-|6.c|'Blended' like Beckham|3|3|-|6|
+|6.a|As gaudy as Butterfly|2|—|4|6|
+|6.b|You or me Emotions no difference|2|—|4|6|
+|6.c|'Blended' like Beckham|3|3|—|6|
 
 
 ‘—’ stands for not shortlisted by the respective judge
