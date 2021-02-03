@@ -1,7 +1,6 @@
 ## Submission phase
-*Submission Phase : 7th to 24th Jnuary 2021*
+*Submission Phase : 7th to 24th January 2021*
 
-*Results will be announced by the end of November, 2020*
     *Number of judges contacted :3
     *Number of judges submitted scores :3
   
