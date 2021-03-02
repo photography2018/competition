@@ -25,7 +25,7 @@ Legends:
 ## Top entries in People's choice category
 
 |Position	|Entry Name|Average vote|Total votes|Total Score|
-||||||
+|--|--|--|--|--|
 |1|A hidden gem in Delhi|4.2|11|46.2|
 |2|Door to unseen India|4.2|10|42|
 |3|Unseen colors of sky..|4|10|40|
