@@ -21,6 +21,7 @@
 Legend:
 
  — Entry not shortlisted by the respective judge
+ 
 ** Uploader didn't complete the procedures finalising the results.
 
 ## Top entries in People's choice category
