@@ -18,7 +18,7 @@
 |4b|The world forgetting, by the world forgot.|4|—|3|7|
 |4c|Eternal sunshine of the spotless mind!|3|—|4|7|
 
-Legends:
+Legend:
  — Entry not shortlisted by the respective judge
 ** Uploader didn't complete the procedures finalising the results.
 
