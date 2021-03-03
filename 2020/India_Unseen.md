@@ -10,7 +10,7 @@
 
 |Position	|Entry Name|	Judge 1	| Judge 2	| Judge 3	 |Total score|
 |--|--|--|--|--|--|
-|1a|Hampi|5|5|2|12|
+|1a|Hampi|4|5|3|12|
 |1b|Shades of Blues|4|5|3|12|
 |2|The Seen Unseens|3|5|3|11|
 |3a|Fragile Paradise - Island of Bitra|4|5|—|9|
