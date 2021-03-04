@@ -75,7 +75,7 @@ Sometimes we get request for accessing specific photographs for numerous reasons
 
 ## Cash Prizes (to be updated)
 
-* For <b>Judges' Choice Category (JCC)<b/> there is a total award money of Rs 1750 available (Subject to increase, see the last point). If 'n' number of winning entries are present, each one will receive Rs 1750/n.
+* For <b>Judges' Choice Category (JCC)</b> there is a total award money of Rs 1750 available (Subject to increase, see the last point). If 'n' number of winning entries are present, each one will receive Rs 1750/n.
 
 * Entry bagging the first position in People's Choice Category (PCC) will receive an award money of Rs 500. If 'n' number of entries tie at 1st position in PCC, each entry will receive Rs 500/n
 
