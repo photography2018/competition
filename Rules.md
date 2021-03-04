@@ -46,12 +46,12 @@ Anyone with a valid NCBS/InStem/CCAMP email account can participate in the compe
 
  * Participant will be the sole copyrighted owner of the uploaded photo.
  * Winner can decide not to frame and/or display a winning photo. (It should be duly informed to the Team in advance. By default the Team will go ahead with the framing/displaying of the winning photographs)
- * Due to policies of the NCBS IT section, a participant cannot delete any photo that is already uploaded. However, they can edit or change it. If you want to delete a photo, please email the IT section (ithelp@ncbs.res.in) regarding the same.
+ * Due to policies of the NCBS IT section, a participant cannot delete any photo that is already uploaded. However, they can edit or change it. If you want to delete a photo, please email the IT section (ithelp [at] ncbs.res.in) regarding the same.
  * Keep a copy of the original photo with you. Organisers are not responsible for any loss of photos due to any technical reason.
  * Organisers hold the rights to delay, suspend, or cancel the competition at any point of time. We will try our best to run competitions smoothly.
  * Organisers hold the authority to retract, modify, re-announce or quash altogether an already announced result.
  * Organisers hold the authority to modify the prize distribution according to the situation.
- * Uploaded photos may be used to publicize photography competition or photography club ‘within BLiSC campus’. If photographer do not want to use his/her photo for such purpose, please email us (photography@ncbs.res.in) and we will remove photo from such listings.  
+ * Uploaded photos may be used to publicize photography competition or photography club ‘within BLiSC campus’. If photographer do not want to use his/her photo for such purpose, please email us (photography [at] ncbs.res.in) and we will remove photo from such listings.  
  * Organisers are not responsible for the quality of photo printed or any delay in award distribution.
  * We take great care of keeping photographer’s copyright intact. However, organisers are not responsible for any unauthorized use of photo. Competition is accessible to all NCBS/InStem/CCAMP users and there is no way to restrict download/screenshot of competition photos.
  * Rules and regulations might be changed or modified without any notice. It's advised that Rules and regulations be checked regularly.  
