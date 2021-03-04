@@ -77,11 +77,11 @@ Sometimes we get request for accessing specific photographs for numerous reasons
 
 * For <b>Judges' Choice Category (JCC)</b> there is a total award money of Rs 1750 available (Subject to increase, see the last point). If 'n' number of winning entries are present, each one will receive Rs 1750/n.
 
-* Entry bagging the first position in People's Choice Category (PCC) will receive an award money of Rs 500. If 'n' number of entries tie at 1st position in PCC, each entry will receive Rs 500/n
+* Entry bagging the first position in <b>People's Choice Category (PCC)</b> will receive an award money of Rs 500. If 'n' number of entries tie at 1st position in PCC, each entry will receive Rs 500/n
 
 * If ties are not present, total number of winners are restricted to 3 (including both JCC and PCC).
 
-* PCC will be cancelled in either of the following cases. 1) 1st positioned PCC winner also bagged JCC award. 2) There are more than 2 entries tied at First position of PCC.
+* PCC will be <b>cancelled</b> in either of the following cases. 1) 1st positioned PCC winner also bagged JCC award. 2) There are more than 2 entries tied at First position of PCC.
 
 (If there is tie in PCC, and one of those entries bagged JCC award, the other entry alone will be considered for PCC award)
 
