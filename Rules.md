@@ -73,7 +73,7 @@ Judges’ score which was received after the given deadline will not be consider
 ### Access to competition photographs
 Sometimes we get request for accessing specific photographs for numerous reasons (like to use on personal website, use to create flyer etc.) We do NOT own copyright of any of the photo uploaded for the photography competition. Photographer will be the sole copyright owner. Only thing the Team can provide is the photographer’s email and name. You should contact him/her on your own regarding access to his/her photo. Organizing team will not be responsible for any such communication between photographers and others. 
 
-## Cash Prizes (to be updated)
+## Cash Prizes
 
 * For <b>Judges' Choice Category (JCC)</b> there is a total award money of Rs 1750 available (Subject to increase, see the last point). If 'n' number of winning entries are present, each one will receive Rs 1750/n.
 
