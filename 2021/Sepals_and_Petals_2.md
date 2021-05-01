@@ -1,6 +1,5 @@
 ## Sepals and Petals 2
 
-## Submission phase
 *Submission Phase : 1 to 16 March 2021*
 
     *Number of judges contacted :4
