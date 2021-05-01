@@ -25,6 +25,8 @@
 |7|Blue Beauty|—|4|2|6|
 
 "—" Entry not shortlisted by the respective judge
+
+
 "##" Uploader hasn't completed the procedures that finalise the winning status
  
 ## Top entries in People's choice category [PCC]
