@@ -2,7 +2,7 @@
 
 *Submission Phase : 4 to 18 March 2021*
 
-*Voting Phase : 19 to 24 March 2021
+*Voting Phase : 19 to 24 March 2021*
 
     *Number of judges contacted :3
     *Number of judges submitted scores :3
