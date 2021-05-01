@@ -1,5 +1,8 @@
-## Submission phase
+## Storytelling Silhouettes
+
 *Submission Phase : 4 to 18 March 2021*
+
+*Voting Phase : 19 to 24 March 2021
 
     *Number of judges contacted :3
     *Number of judges submitted scores :3
@@ -22,7 +25,7 @@
 
  "—" Entry not shortlisted by the respective judge
  
- ## Top entries in People's choice category
+ ## Top entries in People's choice category [PCC]
  
 |Position	|Entry Name|Average vote|Total votes|Total Score|
 |--|--|--|--|--|
