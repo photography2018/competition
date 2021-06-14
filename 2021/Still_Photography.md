@@ -26,21 +26,3 @@
 ‘—’ stands for not shortlisted by the respective judge
 ** entry invalidated because of conflict of interest
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-username : photography2018
-
-password : Gtev@132
