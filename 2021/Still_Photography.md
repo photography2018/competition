@@ -16,13 +16,13 @@
 |1.	| Old World Charm|	5|	4	|	4|13|
 |2.	|Tiny  changes, big impacts|5|	1	|4	|10|
 |3.	|Keys**|4	|2	|2|8|
-|4.a	|Fairies in Bottle  |	5	|2	|-|7|
-|5.a	|Surprise inside|	-|	3|	3|6|
-|5.b|Happiness...|5|1|-|6|
-|5.c|Pink elephant|5|1|-|6|
-|6.a|Summer mornings|4|1|-|5|
+|4	|Fairies in Bottle  |	5	|2	|—|7|
+|5.a	|Surprise inside|—|	3|	3|6|
+|5.b|Happiness...|5|1|—|6|
+|5.c|Pink elephant|5|1|—|6|
+|6.a|Summer mornings|4|1|—|5|
 |6.b|Have an egg-cellent day. I hope its eggs-tra good!|1|1|3|5|
-|6.c|Shells of life|-|2|3|5|
+|6.c|Shells of life|—|2|3|5|
 
 
 ‘—’ stands for not shortlisted by the respective judge
