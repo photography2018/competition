@@ -1,10 +1,11 @@
-## Submission phase
+## Still Life Photography
 
 *Submission Phase :3rd to 30th May 2021*
 
     *Number of judges contacted :4
-    *Number of judges submitted scores :3
     *Number of faculty judges : 1
+    *Number of judges submitted scores :3
+   
   
 * All scores are normalized (see [scoring system](https://github.com/photography2018/competition/blob/master/scoring.md))
 
